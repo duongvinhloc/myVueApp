@@ -4,10 +4,10 @@ https://qiita.com/minato-naka/items/2d2def4d66ec88dc3ca2
 # Environment
 ```
 php version 8.2
-laravel 8.x
-node 14.x.x
-npm 6.14.xx
-composer 2.1.x
+laravel 8.83.27
+node v18.16.0
+npm 9.8.1
+composer 2.2.21
 ```
 
 # Error
